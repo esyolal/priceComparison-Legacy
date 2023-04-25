@@ -1,2 +1,2 @@
-# priceComparison-Legacy
-Asp.NET Core Mvc - PriceComparison WebSite
+# priceComparison
+Asp.Net Core Mvc based Price Comparison WebSite
